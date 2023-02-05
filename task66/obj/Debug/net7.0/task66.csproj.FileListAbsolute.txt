@@ -1,0 +1,5 @@
+C:\Users\Rvi_Jalo\Desktop\NEW\task66\obj\Debug\net7.0\task66.csproj.AssemblyReference.cache
+C:\Users\Rvi_Jalo\Desktop\NEW\task66\obj\Debug\net7.0\task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rvi_Jalo\Desktop\NEW\task66\obj\Debug\net7.0\task66.AssemblyInfoInputs.cache
+C:\Users\Rvi_Jalo\Desktop\NEW\task66\obj\Debug\net7.0\task66.AssemblyInfo.cs
+C:\Users\Rvi_Jalo\Desktop\NEW\task66\obj\Debug\net7.0\task66.csproj.CoreCompileInputs.cache
